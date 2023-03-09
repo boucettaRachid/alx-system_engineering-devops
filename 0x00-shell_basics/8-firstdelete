@@ -1,3 +1,3 @@
 #!/bin/bash
-rm /rmp/my_first_directory/betty
+rm -r /rmp/my_first_directory/betty
 
